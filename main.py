@@ -1,2 +1,4 @@
+from pdfHandler import pdf_merger
+
 if __name__ == '__main__':
-    pass
+    pdf_merger()
